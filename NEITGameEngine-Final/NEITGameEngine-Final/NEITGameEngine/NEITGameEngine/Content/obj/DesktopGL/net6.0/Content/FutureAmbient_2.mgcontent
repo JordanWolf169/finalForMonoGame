@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/trist/Downloads/NEITGameEngine-2/NEITGameEngine/NEITGameEngine/Content/FutureAmbient_2.wav</SourceFile>
+  <SourceTime>2025-03-10T08:20:49.7209107-04:00</SourceTime>
+  <DestFile>C:/Users/trist/Downloads/NEITGameEngine-2/NEITGameEngine/NEITGameEngine/Content/bin/DesktopGL/Content/FutureAmbient_2.xnb</DestFile>
+  <DestTime>2025-03-10T08:34:19.3490552-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,875 @@
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\JDUBREUIL\source\repos\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\jorda\Downloads\Week4Day2\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day1\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\WorkStation\Downloads\Week6Day1\Week6Day1\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bulletSprite.xnb
+C:\Users\JDUBREUIL\Downloads\Week6Day2\Week6Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\gameFont.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bulletSprite.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\gameFont.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\EditorBG.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\world_tileset.xnb
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Management.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Reflection.Context.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Speech.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Threading.AccessControl.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Web.Services.Description.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JDUBREUIL\Downloads\NEITGameEngine\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bulletSprite.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\EditorBG.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\gameFont.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\world_tileset.xnb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.Cryptography.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.CodeDom.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.Registration.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.Odbc.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.OleDb.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Formats.Asn1.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Packaging.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Ports.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Management.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Private.ServiceModel.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Reflection.Context.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Http.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Security.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Speech.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Threading.AccessControl.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Web.Services.Description.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Web.Services.Description.resources.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+G:\FredSoftwareNew\Week4Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bulletSprite.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\EditorBG.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\gameFont.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\world_tileset.xnb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Management.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Reflection.Context.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Speech.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Threading.AccessControl.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Web.Services.Description.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\JDUBREUIL\Downloads\Week5Day2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\TestSprite.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bulletSprite.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\EditorBG.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\gameFont.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\TestSprite.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\world_tileset.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Management.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Reflection.Context.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Speech.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Threading.AccessControl.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Web.Services.Description.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\water 1.xnb
+C:\Users\trist\Downloads\Week6Day2 (1)\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\metal 3.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bullet.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\bulletSprite.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Circle.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Diamond.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\EditorBG.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\empty.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.ogg
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_1.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_2.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_3.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\FutureAmbient_4.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\gameFont.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\groundtile.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\Idle.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\metal 3.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\newSpriteSheet.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\run.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\TestSprite.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\water 1.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\world_tileset.xnb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.exe
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.deps.json
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.runtimeconfig.json
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Management.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Reflection.Context.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Speech.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Threading.AccessControl.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\System.Web.Services.Description.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\cs\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\de\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\es\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\fr\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\it\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ja\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ko\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pl\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\ru\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\tr\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.AssemblyReference.cache
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfoInputs.cache
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.AssemblyInfo.cs
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGame.628C5BDD.Up2Date
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\refint\NEITGameEngine.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.pdb
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\NEITGameEngine.genruntimeconfig.cache
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\obj\Debug\net6.0\ref\NEITGameEngine.dll
+C:\Users\trist\Downloads\NEITGameEngine-2\NEITGameEngine\NEITGameEngine\bin\Debug\net6.0\Content\rocks 1.xnb

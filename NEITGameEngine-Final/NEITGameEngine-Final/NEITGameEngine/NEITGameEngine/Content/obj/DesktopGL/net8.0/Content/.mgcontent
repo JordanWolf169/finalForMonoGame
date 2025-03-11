@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/bullet.wav</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/bulletSprite.png</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/Circle.png</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/Diamond.png</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/EditorBG.png</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/empty.wav</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/FutureAmbient_1.wav</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/FutureAmbient_2.wav</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/FutureAmbient_3.wav</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/FutureAmbient_4.wav</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/gameFont.spritefont</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/groundtile.jpg</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/Idle.png</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/run.png</File>
+    <File>C:/Users/JDUBREUIL/Downloads/NEITGameEngine/NEITGameEngine/NEITGameEngine/Content/world_tileset.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
